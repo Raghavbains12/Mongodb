@@ -4,7 +4,7 @@
 
 Resource allocation in manufacturing is a critical aspect that involves strategically distributing resources such as labor, equipment, materials, and time to optimize production processes. The goal is to achieve efficiency, reduce costs, meet production targets, and enhance overall productivity.
 
-###**collections:**
+### **collections:**
 
 Your MongoDB collections are well-structured and the data types are appropriate for each field. Here's a brief explanation of each collection:
 
