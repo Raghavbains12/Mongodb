@@ -6,6 +6,8 @@ Resource allocation in manufacturing is a critical aspect that involves strategi
 
 ### **collections:**
 
+Your MongoDB collections are well-structured and the data types are appropriate for each field. Here's a brief explanation of each collection:
+
 1. **Machines Collection**: This collection stores information about the machines used in the manufacturing process. The `machine_id` is a unique identifier for each machine, `type_model` specifies the model of the machine, `location` indicates where the machine is located, `status` shows whether the machine is operational or not, `capacity` represents the machine's capacity, and `maintenance_schedule` is the date and time for the machine's next maintenance.
 
 2. **Materials Collection**: This collection keeps track of the materials used in the manufacturing process. The `material_id` is a unique identifier for each material, `type` specifies the type of material, `supplier` indicates the supplier of the material, `cost` is the cost of the material, `quantity_on_hand` shows the current quantity of the material, and `reorder_level` is the quantity level at which a new order should be placed for the material.
